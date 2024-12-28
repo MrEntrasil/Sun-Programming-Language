@@ -1,3 +1,9 @@
+# vscode config
+.vscode/
+
+# Test build files
+program.cmd
+
 # Prerequisites
 *.d
 
