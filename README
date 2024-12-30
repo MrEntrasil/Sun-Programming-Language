@@ -1,0 +1,10 @@
+# Sun Programming Language
+## build
+```powershell
+cmake -s . -b build
+cmake --build build
+```
+## usage
+```powershell
+./build/SunPL <path/to/file>.sn
+```
